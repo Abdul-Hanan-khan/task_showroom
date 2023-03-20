@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465554870102",
+    "project_id": "showroomtaskropstam",
+    "storage_bucket": "showroomtaskropstam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465554870102:android:04573ff1122a674a5490f7",
+        "android_client_info": {
+          "package_name": "com.example.task_showroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465554870102-rm4ai0fum00n6g3e0rpr7jl0je42c6l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6UjcxG1QowByd6Y37_kCzcExT21rCrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465554870102-rm4ai0fum00n6g3e0rpr7jl0je42c6l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

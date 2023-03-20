@@ -1,0 +1,45 @@
+class AppString {
+  static String login = "Login";
+  static String signup = "Sign Up";
+  static String loginDetails = "Please login to continue using our app";
+  static String signupDetails = "Please fill the details and creant account";
+  static String email = "Email";
+  static String password = "Password";
+  static String newPassword = "New Password";
+  static String conformPassword = "Conform Password";
+  static String forgotPassword = "Forgot Password?";
+  static String forgotPwd = "Forgot Password";
+  static String register = "Register";
+  static String mes = "Message";
+  static String dontHaveanAccount = "Don't Have an Account? ";
+  static String fullName = "Full Name";
+  static String firstName = "Firs Name";
+  static String lastName = "Last Name";
+  static String phNo = "Phone No";
+  static String userName = "userName";
+  static String alreadyHaveanAccount = "Already Have an Account? ";
+  static String or = "Or";
+  static String backto = "Back to";
+  static String send = "Send";
+   static String logout = "Log out";
+  static String cancel = "Cancel";
+  static String surelogout = "Are you sure you want to logout?";
+  static String hintModel = "Year";
+  static String carNameHint = "Aqua";
+  static String hintRegistration = "17-Rik-6883";
+  static String ownerName = "Abdul Hanan";
+  static String upload = "Upload";
+  static String update = "Update";
+  static String updateCDetails = "Update Car Details";
+  static String addCar = "Add New Car";
+  static String enterVehicleName = "Enter Vehicle Name";
+  static String enterVehicleModel = "Enter Vehicle Model";
+  static String selectColor = "Select Color of Vehicle";
+  static String selectManufacturer = "Select Manufacturer of Vehicle";
+  static String selectCategory = "Select Category of Vehicle";
+  static String enterRegistration = "Enter Vehicle Registration";
+  static String enterOwnerName = "Enter Vehicle Owner Name";
+  static String overview = "Overview";
+  // static String newCar = "new";
+
+}
